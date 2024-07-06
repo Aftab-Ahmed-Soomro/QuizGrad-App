@@ -1,0 +1,39 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+.size {
+    height: 50px;
+}
+.size1 {
+    height: 70px;
+}
+.vh {
+    height: 100vh;
+}
+.eye {
+    cursor: pointer;
+}
+.profile {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+.cursor {
+    cursor: pointer;
+}
+.width {
+    width: 185px;
+}
+.left {
+    margin-left: 120px;
+}
+.right {
+    margin-right: 388px;
+}
+.rightLittle {
+    margin-right: 155px;
+}
+.rightMore {
+    margin-right: 400px;
+}
